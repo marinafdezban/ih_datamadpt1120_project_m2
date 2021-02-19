@@ -40,8 +40,6 @@ A GitHub repository, preferably named: __ih_datamadpt0420_project_m2__, includin
 
 __IMPORTANT:__ You only need your Dashboard for the presentation (no Jupyter, no PowerPoint/Canva)
 
-    :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up: :point_up:
-
 
 
 ---
