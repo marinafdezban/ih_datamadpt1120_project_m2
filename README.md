@@ -38,7 +38,7 @@ A GitHub repository, preferably named: __ih_datamadpt0420_project_m2__, includin
 <p align="center"><img src="https://media.giphy.com/media/1Ygis29YXMS35cW90I/giphy.gif"></p>
 
 
-__IMPORTANT:__ You only need your Dashboard for the presentation (no Jupyter, no PowerPoint/Canva)
+> __IMPORTANT NOTE:__ You only need your Dashboard for the presentation (no Jupyter, no PowerPoint/Canva)
 
 
 
@@ -104,7 +104,7 @@ We might want to know if our sample and sub-samples are representative of diamon
 
 <p align="center"><img src="https://media.giphy.com/media/26vUAAwkzAMnBj9x6/giphy.gif"></p>
 
-> __IMPORTANT:__ Remember to also include your conclusions about the implications of your test results and all metrics involved (e.g.: samples size).
+> __IMPORTANT NOTE:__ Remember to also include your conclusions about the implications of your test results and all metrics involved (e.g.: samples size).
 
 ---
 
