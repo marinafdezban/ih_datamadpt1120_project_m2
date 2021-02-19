@@ -82,7 +82,7 @@ A data dashboard is not exactly a sequential set of descriptive charts like thos
 
 ## **Bonus Challenge: Hypothesis Testing**
 
-![Image](https://github.com/potacho/ih_datamadpt1120_project_m2/blob/master/images/htesting.jpg)
+<p align="center"><img src="https://github.com/potacho/ih_datamadpt1120_project_m2/blob/master/images/htesting.jpg"></p>
 
 We might want to know if our sample and sub-samples are representative of diamonds in general. Moreover, we might want to reach some conclusions about the influence of certain diamonds features in their price. In that sense, we propose you to perform two statistical tests:
 
