@@ -15,7 +15,7 @@ In this repository you will find the following files:
 
 * Data clean
 * Exploratory data analysis (EDA)
-* Dashboard on Tableau Public (txt file with the link)
+* Dashboard on Tableau Public
 
 ## :chart_with_upwards_trend: Technology Stack
 
