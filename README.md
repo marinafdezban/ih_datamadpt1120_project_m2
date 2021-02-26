@@ -2,7 +2,7 @@
 
 # __ih_datamadpt0420_project_m2__
 
-![Image](https://github.com/potacho/ih_datamadpt1120_project_m2/blob/master/images/visuals.jpg)
+![Image](https://robbreport.com/wp-content/uploads/2019/05/lab-grown-diamonds.jpg?w=1000)
 
 
 ## **Introduction:**
