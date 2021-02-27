@@ -50,7 +50,7 @@ Average price of Diamonds is around 4.000USD and validated after testing
 
 - **Sub-Test 6:** All cuts + color D vs. All cuts + color E
 
-Null Hypthotesis was confirmed as outcome of all tests, which mean that in all tests they have similar prices. 
+Null Hypthotesis was confirmed as outcome of all tests, which mean they have similar prices. 
 
 ## :open_file_folder: Folder Structure
 
