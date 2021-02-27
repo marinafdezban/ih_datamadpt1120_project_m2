@@ -25,7 +25,7 @@ In this repository you will find the following files:
 * Seaborn
 * Scipy
 
-## :chart_with_upwards_trend: Key Findings
+## :bar_chart: Key Findings
 
 * **Carat:** is the most relevant metric to stablish a diamond's value, having an exponential relationship.
 * **Cut:** is not a major feature to determinate the price. In fact, Fair cut is related to the most expensive diamonds even though it is not the greatest cut. 
