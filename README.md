@@ -29,7 +29,7 @@ In this repository you will find the following files:
 
 * **Carat:** is the most relevant metric to stablish a diamond's value, having an exponential relationship.
 * **Cut:** is not a major feature to determinate the price. In fact, Fair cut is related to the most expensive diamonds even though it is not the greatest cut. 
-* **Color & Clarity:** They both have a linear relationship with average price, very close to carat value.
+* **Color & Clarity:** They both have a linear relationship with average price.
 
 ### :rocket: **Bonus: Hypothesis Testing**
 
