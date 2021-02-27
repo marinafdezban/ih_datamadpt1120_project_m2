@@ -25,6 +25,27 @@ In this repository you will find the following files:
 * Seaborn
 * Scipy
 
+### :rocket: **Bonus: Hypothesis Testing**
+
+**Test 1 - one sample vs constant hypothesis test.** 
+Average price of Diamonds is around 4.000USD and validated after testing
+
+**Test 2 - two independent samples.** 
+
+- **Sub-Test 1:** Fair cut + color G vs. Fair cut + color I
+
+- **Sub-Test 2:** Good cut + color E vs. Good cut + color F
+
+- **Sub-Test 3:** Ideal cut + color D vs. Ideal cut + color E
+
+- **Sub-Test 4:** Premium cut + color D vs. Premium cut + color E
+
+- **Sub-Test 5:** Very Good cut + color I vs. Very Good cut + color J
+
+- **Sub-Test 6:** All cuts + color D vs. All cuts + color E
+
+The outcome of all tests was Null Hypthotesis confirmed, which mean that in all tests they have similar prices. 
+
 ## :mailbox: Contact info
 
 For questions, suggestions and other inquiries... here is my email address [marina.fernandez@gmail.com](m.fernandezban@gmail.com)
