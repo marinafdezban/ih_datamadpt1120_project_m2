@@ -64,7 +64,7 @@ Null Hypthotesis was confirmed as outcome of all tests, which mean that in all t
     │   ├── EDA and ab testing.ipynb
     │   └── cleaning_diamonds_data.ipynb
     └── images
-
+```
 
 ## :mailbox: Contact info
 
